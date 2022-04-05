@@ -1,0 +1,14 @@
+variable "environment" {}
+variable "project" {}
+variable "owner" {}
+variable "location" {}
+variable "rg" {}
+variable "subnet_id" {}
+variable "hostname" {}
+variable "username" {}
+variable "password" {}
+variable "custom_data" {}
+variable "type" {}
+variable "vm_size" {}
+variable "storage_account_type" {}
+variable "disk_encryption_set_id" {}
